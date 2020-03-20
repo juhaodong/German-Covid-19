@@ -1,0 +1,204 @@
+COVID19:
+  en: COVID-19 Coronavirus Map
+  zh: 新型冠状病毒肺炎疫情图
+LINEAR_SCALE:
+  en: Linear
+  zh: 线性
+LOG_SCALE:
+  en: log
+  zh: 对数
+CONFIRMED:
+  en: Confirmed
+  zh: 确诊
+DEATHS:
+  en: Deaths
+  zh: 死亡
+RECOVERED:
+  en: Recovered
+  zh: 治愈
+OVERALL:
+  en: Overall
+  zh: 总体
+SUBREGIONS:
+  en: Regions
+  zh: 各地区
+FATALITY_RATE:
+  en: Fatality Rate
+  zh: 病死率
+RECOVERY_RATE:
+  en: Recovery Rate
+  zh: 治愈率
+REST:
+  en: Rest
+  zh: 其余
+CASES:
+  en: Cases
+  zh: 病例
+GROWTH_RATE:
+  en: New Cases Growth Rate
+  zh: 新增病例增长率
+FATALITY_RECOVERY_RATE:
+  en: Fatality/Recovery Rate
+  zh: 病死率/治愈率
+ONE_VS_REST:
+  en: One vs. Rest
+  zh: 一对多比较
+FATALITY_LINE:
+  en: Fatality Line
+  zh: 疫情轨迹线
+INFECTION_NUMBER:
+  en: Number of Infections
+  zh: 感染人数
+DEATH_NUMBER:
+  en: Number of Deaths
+  zh: 死亡人数
+MOST_AFFECTED_SUBREGIONS:
+  en: Most Affected
+  zh: 受影响程度排序
+SUBREGION_ACTIVE_STREAM:
+  en: Stream of Active Cases
+  zh: 存量确诊病例流图
+SUBREGION_FATALITY:
+  en: Fatality
+  zh: 病死率
+SUBREGION:
+  en: Cases
+  zh: 病例
+SUBREGION_STREAM:
+  en: Stream of Cases
+  zh: 病例流图
+TYPE:
+  en: Type
+  zh: 类型
+Y_AXIS:
+  en: Y-Axis
+  zh: Y轴
+SCALE:
+  en: Scale
+  zh: 尺度
+CUMULATIVE:
+  en: Total
+  zh: 累积
+DAILY:
+  en: Daily
+  zh: 新增
+RATE:
+  en: Rate
+  zh: 病死率
+CASE_NUMBERS:
+  en: Cases
+  zh: 病例数
+DEATH_NUMBER2:
+  en: Deaths
+  zh: 死亡数
+PERCENT:
+  en: Percent
+  zh: 百分比
+COMPARISONS:
+  en: Comparsions
+  zh: 比较
+SHOW:
+  en: Show
+  zh: 显示
+HIDE:
+  en: Hide
+  zh: 隐藏
+REGION:
+  en: Region
+  zh: 地区
+BUBBLES:
+  en: Circles
+  zh: 气泡
+TABLE:
+  en: Table
+  zh: 表格
+OTHERS:
+  en: Others
+  zh: 其余地区
+WORLD_MAP:
+  en: Global
+  zh: 全球
+CHINA_MAP1:
+  en: China (Provinces)
+  zh: 中国（省级）
+CHINA_MAP2:
+  en: China (Cities)
+  zh: 中国（地级）
+KOREA_MAP:
+  en: South Korea
+  zh: 韩国
+ITALY_MAP:
+  en: Italy
+  zh: 意大利
+US_MAP:
+  en: United States
+  zh: 美国
+FRANCE_MAP:
+  en: France
+  zh: 法国
+GERMANY_MAP:
+  en: Germany
+  zh: 德国
+JAPAN_MAP:
+  en: Japan
+  zh: 日本
+TRANSMISSIONS:
+  en: Transmissions
+  zh: 传播路线
+TRANSMISSION_NETWORK:
+  en: Transmission Graph
+  zh: 疫情传播图
+RESET:
+  en: Reset
+  zh: 重置
+DARK:
+  en: Dark
+  zh: 暗黑
+LIGHT:
+  en: Light
+  zh: 高亮
+NO_DATA:
+  en: No Data
+  zh: 无数据
+LANGUAGE_HELP_TEXT:
+  en: Switch language
+  zh: 切换语言
+LINEAR_SCALE_HELP_TEXT:
+  en: Switch to linear scale
+  zh: 切换至线性尺度
+LOG_SCALE_HELP_TEXT:
+  en: Switch to logarithmic scale
+  zh: 切换至对数尺度
+DARK_MODE_HELP_TEXT:
+  en: Switch to dark mode
+  zh: 切换至暗黑模式
+LIGHT_MODE_HELP_TEXT:
+  en: Switch to light mode
+  zh: 切换至高亮模式
+RESET_HELP_TEXT:
+  en: Reset maps
+  zh: 重置地图
+SEARCH:
+  en: Search
+  zh: 搜索
+NO_RESULT:
+  en: No result found
+  zh: 无搜索结果
+MORE_REGIONS_HELP_TEXT:
+  en: Show subregions
+  zh: 显示次级行政区划
+LESS_REGIONS_HELP_TEXT:
+  en: Hide subregions
+  zh: 隐藏次级行政区划
+PLOT_SETTINGS:
+  en: Configure Plots
+  zh: 图表设置
+ABOUT:
+  en: About
+  zh: 关于
+SOURCE_CODE:
+  en: Source code
+  zh: 源代码
+ABOUT_TEXT:
+  en: Data are taken from <a href="https://ncov.dxy.cn/ncovh5/view/pneumonia" target="_blank">Ding Xiang Yuan</a> (compiled by <a href="https://github.com/BlankerL/DXY-COVID-19-Data" target="_blank">COVID-19/2019-nCoV Time Series Infection Data Warehouse</a>), <a href="https://github.com/CSSEGISandData/COVID-19" target="_blank">Johns Hopkins CSSE</a> and <a href="https://github.com/stevenliuyi/covid19/blob/master/README.md" target="_blank">other various sources</a>. Logo is from <a href="https://icons8.com" target="_blank">Icons8</a>. The code of this project is <a href="https://github.com/stevenliuyi/covid19" target="_blank">open-sourced on Github</a> with the MIT License.
+  zh: 数据来源于<a href="https://ncov.dxy.cn/ncovh5/view/pneumonia" target="_blank">丁香园</a>（由<a href="https://github.com/BlankerL/DXY-COVID-19-Data" target="_blank">2019新型冠状病毒疫情时间序列数据仓库</a>维护）、<a href="https://github.com/CSSEGISandData/COVID-19" target="_blank">约翰霍普金斯大学系统科学与工程中心</a>等提供的<a href="https://github.com/stevenliuyi/covid19/blob/master/README.md" target="_blank">数据集</a>。图标由<a href="https://icons8.com" target="_blank">Icons8</a>提供。本项目<a href="https://github.com/stevenliuyi/covid19" target="_blank">在GitHub上开源</a>并以MIT协议释出。

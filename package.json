@@ -1,0 +1,65 @@
+{
+    "name": "covid19",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "@ctrl/tinycolor": "^2.6.0",
+        "@nivo/bump": "^0.61.1",
+        "@nivo/circle-packing": "^0.61.0",
+        "@nivo/line": "^0.61.1",
+        "@nivo/stream": "^0.61.1",
+        "@vx/pattern": "^0.0.193",
+        "bash": "0.0.1",
+        "bootstrap": "^4.4.1",
+        "d3": "^5.15.0",
+        "d3-scale": "^3.2.1",
+        "d3-scale-chromatic": "^1.5.0",
+        "date-fns": "^2.9.0",
+        "react": "^16.12.0",
+        "react-compound-slider": "^2.5.0",
+        "react-d3-graph": "^2.3.0",
+        "react-device-detect": "^1.11.14",
+        "react-dom": "^16.12.0",
+        "react-helmet": "^5.2.1",
+        "react-icons": "^3.9.0",
+        "react-measure": "^2.3.0",
+        "react-scripts": "3.3.1",
+        "react-select": "3.0.3",
+        "react-simple-maps": "^1.0.0-beta.0",
+        "react-table": "^7.0.0",
+        "react-text-transition": "^1.0.2",
+        "react-toggle": "^4.1.1",
+        "react-tooltip": "^4.0.3",
+        "reactstrap": "^8.4.1"
+    },
+    "scripts": {
+        "start": "react-app-rewired start",
+        "build": "react-app-rewired build",
+        "test": "react-app-rewired test",
+        "eject": "react-scripts eject",
+        "postinstall": "bash ./postinstall.sh"
+    },
+    "eslintConfig": {
+        "extends": "react-app"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "devDependencies": {
+        "lodash": "^4.17.15",
+        "mapshaper": "^0.4.158",
+        "patch-package": "^6.2.0",
+        "postinstall-postinstall": "^2.0.0",
+        "react-app-rewire-yaml": "^1.1.0",
+        "react-app-rewired": "^2.1.5"
+    }
+}

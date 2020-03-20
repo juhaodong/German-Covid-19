@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "WenYueShengHuoJiaTi";
+    src: url("./fonts/WenYueShengHuoJiaTi.eot"); /* IE9 */
+    src: local("WenYueShengHuoJiaTi"), url("./fonts/WenYueShengHuoJiaTi.eot?#iefix") format("embedded-opentype"),
+        url("./fonts/WenYueShengHuoJiaTi.woff") format("woff"),
+        url("./fonts/WenYueShengHuoJiaTi.ttf") format("truetype"),
+        url("./fonts/WenYueShengHuoJiaTi.svg#WenYueShengHuoJiaTi") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+body {
+    margin: 0;
+    font-family: 'Saira', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell',
+        'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
