@@ -56,7 +56,7 @@
     },
     "devDependencies": {
         "lodash": "^4.17.15",
-        "mapshaper": "^0.4.158",
+        "mapshaper": "^0.6.44",
         "patch-package": "^6.2.0",
         "postinstall-postinstall": "^2.0.0",
         "react-app-rewire-yaml": "^1.1.0",
